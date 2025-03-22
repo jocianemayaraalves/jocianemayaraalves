@@ -13,4 +13,4 @@ Essa é a trilha de uma pregoeira que aos 30 anos decidiu ingressar em uma trans
 - Java 
 - SQL
 
-  Me resta aproveitar a jornada em cada detalhe! 
+
